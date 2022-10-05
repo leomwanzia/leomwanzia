@@ -1,0 +1,2 @@
+- 👋 Hi, I’m leo mwanzia and welcome to my GitHub page
+- 🌱 I’m currently learning ReactJs and Ruby on Rails
